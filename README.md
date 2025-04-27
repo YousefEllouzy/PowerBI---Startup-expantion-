@@ -19,6 +19,9 @@ Data cleaning and preprocessing were done using Python, and visualization was cr
 - Customer segmentation and market opportunities.
 - Operational KPIs and growth trends over time.
 
+![image](https://github.com/user-attachments/assets/f2b9ad04-2f15-49fe-a6f3-8e152febde8c)
+
+
 ## How to Run
 1. Run `data-analysis.ipynb` to clean and prepare the dataset (optional if you want to replicate cleaning).
 2. Open `YoussefStartupExpansion.pbix` in Power BI Desktop.
